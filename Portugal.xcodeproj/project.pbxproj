@@ -26,6 +26,7 @@
 		3C593B502AE295D50040C32E /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		3C593B522AE2965A0040C32E /* ListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingView.swift; sourceTree = "<group>"; };
 		3C593B542AE29DAA0040C32E /* content.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = content.json; sourceTree = "<group>"; };
+		3C5F0F122B557DBB00E0E927 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3CAF4DD82AD6B85F00A1F86C /* Portugal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portugal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CAF4DDB2AD6B85F00A1F86C /* PortugalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortugalApp.swift; sourceTree = "<group>"; };
 		3CAF4DDD2AD6B85F00A1F86C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -49,6 +50,7 @@
 		3CAF4DCF2AD6B85F00A1F86C = {
 			isa = PBXGroup;
 			children = (
+				3C5F0F122B557DBB00E0E927 /* README.md */,
 				3CAF4DDA2AD6B85F00A1F86C /* Portugal */,
 				3CAF4DD92AD6B85F00A1F86C /* Products */,
 			);
