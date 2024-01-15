@@ -1,21 +1,16 @@
-//
-//  ContentView.swift
-//  Portugal
-//
-//  Created by Tako Menteshashvili on 11.10.23.
-//
+
 
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var dataModel: DataModel
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        if dataModel.isLoading {
+            LoadingView()
+        } else {
+            ListingView()
         }
-        .padding()
     }
 }
 

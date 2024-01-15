@@ -1,0 +1,79 @@
+[
+    {
+        "id": "Food",
+        "icon": "fork.knife",
+        "items": [
+            {
+                "id": "Deer sandwich",
+                "description": "This is a famous dish in Porto that you must try.."
+            },
+            {
+                "id": "Francesinha",
+                "description": "A heart-stopping stack of wet cured ham, linguiça sausage, steak or roast beef, and melted cheese  Porto, at once both a hangover cure."
+            },
+            {
+                "id": "Nata",
+                "description": "Nata are a popular Portuguese dessert loved worldwide."
+            },
+            {
+                "id": "Porco preto",
+                "description": "Porco Preto (Black Pork) comes from the Iberian pig, a breed native to the peninsula and revered throughout, whose distinct taste is often influenced by their cork tree acorn diet."
+            },
+            {
+                "id": "Shrimp",
+                "description": "Another of Portugal’s seafood revelations, is fish, shrimp, and other crustaceans—but is usually a mix of all, cooked with white wine, spices and herbs (chopped cilantro), and a few veggies (tomatoes, onions, bell peppers)."
+            }
+        ]
+    },
+    {
+        "id": "Drink",
+        "icon": "waterbottle",
+        "items": [
+            {
+                "id": "Drink1",
+                "description": "One of the cocktails you will taste in Lisbon, on the corner of Erasmus."
+            },
+            {
+                "id": "Drink2",
+                "description": "One of the colorful and delicious cocktails that you will taste in Lisbon, on the corner street of Ersamou."
+            },
+            {
+                "id": "Portwine",
+                "description": "Port wine or simply port, also known as vinho do Porto is a Portuguese fortified wine produced in the Douro Valley of northern Portugal."
+            },
+            {
+                "id": "Super bock",
+                "description": "Super Bock is a Portuguese beer brand from the Super Bock Group brewery which produces a range of beers under the same name."
+            }
+            
+        ]
+    },
+    {
+        "id": "Activity",
+        "icon": "figure.walk",
+        "items": [
+            {
+                "id": "Azores",
+                "description": "The volcanic nature of the Azores is the architect of its appeal and manifests in the dark heart of the stone used in the old buildings and the black sand of the beaches."
+            },
+            {
+                "id": "Scuba-diving",
+                "description": "The islands of Madeira and Porto Santo enable nice immersions mostly all year. In short, Portugal has many different places that are good for diving."
+            },
+            {
+                "id": "Sintra",
+                "description": "Sintra is regarded as the finest day trip of the Lisbon region, and a visit to this wonderful town will make a fantastic addition to your holiday plans."
+            },
+            {
+                "id": "Surf",
+                "description": "Portugal has numerous surf spots along its coastline, with the most famous ones located in the central and southern regions. Peniche, Ericeira, and Nazaré are renowned for their world-class waves, hosting international surf competitions."
+            },
+            {
+                "id": "Table-football",
+                "description": "Table football, bar, friends are the top three for relaxation."
+            }
+            
+        ]
+    }
+]
+ 
